@@ -18,4 +18,4 @@ split_ways = int(raw_input('Split the bill how many ways? (1 for none): '))
 
 each_person = total / split_ways
 
-print 'Amount per person ''%.2f' % each_person
+print 'Amount per person '%.2f'' each_person
